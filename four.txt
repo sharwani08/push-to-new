@@ -1,5 +1,11 @@
-Some text
+Some sentence
+.head {
+	color: blue,
+	background-color: black
+}
+
+
 
 Some text
 
-Some text
+Some textksdjfl
